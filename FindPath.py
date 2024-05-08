@@ -1,3 +1,13 @@
+# Adrienne Loc and Parisa Aghazadeh
+# CSC 362: Artificial Intelligence
+# May 7, 2024
+# Final project: Explore the differences between the A* algorithm and Dijkstra
+#                algorithm by simulating a nurse robot that has to draw paths
+#                to different wards
+
+
+
+
 import tkinter as tk
 from tkinter import filedialog
 from collections import deque
